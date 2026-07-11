@@ -1,0 +1,10 @@
+uniubi_robot_description
+Copyright 2026 UniUbi
+
+This repository is licensed under the Apache License, Version 2.0, except
+where a file or included artifact states a different license.
+
+Original UniUbi source code and documentation in this repository are made
+available under Apache-2.0. Robot model assets, meshes, textures, simulator
+assets, generated artifacts, and third-party assets may be subject to separate
+license terms. See ASSET_NOTICES.md for asset-specific notices.
